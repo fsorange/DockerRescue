@@ -1,3 +1,4 @@
 redis
 mysql:8.0
 node:20-slim
+nginx
